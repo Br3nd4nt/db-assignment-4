@@ -24,3 +24,7 @@ services:
 ![](images/5.png)
 ### То, чудо, все данные остались
 ![](images/6.png)
+# Предыдущие задания
+![](images/7.png)
+![](images/8.png)
+![](images/9.png)
